@@ -53,4 +53,4 @@ Kami **tidak menggunakan random split** karena akan menyebabkan *data leakage* (
 
 Proyek ini dilengkapi dengan *dashboard* interaktif yang memungkinkan pengguna memasukkan data ISPU beberapa hari terakhir, lalu melihat hasil prediksi 1-3 hari ke depan beserta kategorinya (Baik, Sedang, Tidak Sehat, dll).
 
-🔗 **[https://prediksikualitasudara-jakarta.streamlit.app](#)** 
+🔗 **[https://prediksikualitasudara-jakarta.streamlit.app](https://prediksikualitasudara-jakarta.streamlit.app/)** 
